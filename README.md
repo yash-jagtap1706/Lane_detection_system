@@ -33,7 +33,17 @@ Install my-project with npm
     ```bash
     python mainWindow.py
     ```
-    
+## Output
+- Home
+  ![image](https://github.com/user-attachments/assets/4add48c6-8554-498a-87bd-abf00f6e402e)
+  
+- Lane detection on an image
+  ![image](https://github.com/user-attachments/assets/efe9360a-fb60-49a8-be94-25873cabbac4)
+
+- Lane detection on a video
+  ![image](https://github.com/user-attachments/assets/6a9b0e6f-ad61-45c3-99b9-8f998faedf1e)
+
+
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the [LICENSE](LICENSE) file for details.
