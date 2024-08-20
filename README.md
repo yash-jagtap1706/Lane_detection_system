@@ -35,15 +35,17 @@ Install my-project with npm
     ```
 ## Output
 
-- Home
+### Home
+
   ![image](https://github.com/user-attachments/assets/4add48c6-8554-498a-87bd-abf00f6e402e)
   
-- Lane detection on an image
+### Lane detection on an image
+
   ![image](https://github.com/user-attachments/assets/efe9360a-fb60-49a8-be94-25873cabbac4)
+  
+### Lane detection on a video
 
-- Lane detection on a video
   ![image](https://github.com/user-attachments/assets/dc9cce4f-59bd-4daf-8457-c48815d014e4)
-
 
 
 ## License
