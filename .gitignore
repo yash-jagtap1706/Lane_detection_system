@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+share/
+Scripts/
+Lib/
+.idea/
+__pycache__/
+
+
